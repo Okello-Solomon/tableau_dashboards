@@ -120,7 +120,7 @@ The dashboard provides an immediate snapshot of market scale and performance ben
 Total Market Volume: 48,895 unique Airbnb listings across New York City
 
 
-###Inventory Composition:
+### Inventory Composition:
 
 - **Entire Home/Apt:** 51.97% (dominant category)
 
@@ -202,9 +202,8 @@ Built entirely in Tableau, leveraging donut charts, packed bubbles, stacked bar 
 
 ### Data Source
 
-NYC Airbnb Open Data - Kaggle / Inside Airbnb
-**Source:** [Contains detailed listing-level records for the New York City region](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
-
+- [NYC Airbnb Open Data - Kaggle / Inside Airbnb](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
+  
 </details>
 
 
