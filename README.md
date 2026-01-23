@@ -143,7 +143,7 @@ A proportional breakdown of Airbnb accommodation categories, including Entire Ho
 **Strategic Insight:**
 This visualization highlights dominant accommodation types, offering insights into host strategies, market structure, and the diversity of stay options within the selected boroughs.
 
-###Availability 365 Analysis (Packed Bubble Chart)
+### Availability 365 Analysis (Packed Bubble Chart)
 
 **Description:**
 Measures listing availability across a 365-day calendar year, with bubble size representing total availability.
