@@ -1,4 +1,8 @@
-# 1. Netflix Content Analytics Dashboard
+# 1. Candy Sales Performance Dashboard
+
+![image alt](https://github.com/Okello-Solomon/tableau_dashboards/blob/ee15fd6ae6ebed0b43394d32e287d654ef9ff588/Candy%20Performance%20Dashboard%201.png)
+
+# 2. Netflix Content Analytics Dashboard
 
 ## Project Overview
 
@@ -47,7 +51,7 @@ The dashboard segments the content data to deliver actionable insights:
 
 
 
-# 2. HR Analytics Insights Dashboard: Driving Strategic Workforce Decisions
+# 3. HR Analytics Insights Dashboard: Driving Strategic Workforce Decisions
 
 ## Project Overview
 
@@ -101,7 +105,7 @@ The dashboard segments the workforce data to deliver actionable insights on orga
 
 
 
-# 3. Airbnb NYC Market Analysis Dashboard
+# 4. Airbnb NYC Market Analysis Dashboard
 
 
 ## Project Overview
