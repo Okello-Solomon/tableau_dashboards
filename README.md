@@ -2,6 +2,8 @@
 
 ![image alt](https://github.com/Okello-Solomon/tableau_dashboards/blob/ee15fd6ae6ebed0b43394d32e287d654ef9ff588/Candy%20Performance%20Dashboard%201.png)
 
+![image alt](https://github.com/Okello-Solomon/tableau_dashboards/blob/105cfce5b12a656e2a2b9c5168e8343bd1cb3dd1/Candy%20Performance%20Dashboard%202.png)
+
 # 2. Netflix Content Analytics Dashboard
 
 ## Project Overview
