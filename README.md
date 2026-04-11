@@ -1,4 +1,121 @@
-# 1. Candy Sales Performance Dashboard
+# 1. US Candy Sales & Distribution Performance Dashboard
+
+## Project Overview
+
+This interactive dashboard provides a comprehensive, data-driven analysis of sales performance, profitability, and logistics operations for a US-based candy distributor.
+
+The dataset combines sales transactions and geospatial shipment data, capturing the full journey from factory locations to customer destinations. It includes detailed information on customer distribution, product categories, shipping modes, and sales targets.
+
+<details>
+<summary><strong> View Project Details</strong></summary>
+  
+## The primary objective of this dashboard is to enable stakeholders to:
+
+- Evaluate overall business performance
+- Identify high and low performing products
+- Analyze regional sales distribution
+- Assess shipping efficiency
+- Compare actual sales against targets
+
+The dashboard is designed to transform raw operational data into actionable insights for strategic decision-making and performance optimization.
+
+## Key Performance Indicators (KPIs)
+
+The dashboard provides a high-level snapshot of overall business performance:
+
+- **Total Sales:** 141,784
+- **Total Cost:** 48,341
+- **Total Gross Profit:** 93,443
+- **Profit Margin:** 66%
+- **Total Customers:** 5,044
+- **Total Units Sold:** 38,654
+- **Total Products:** 15
+- **Total Cities:** 542
+- **Total States:** 59
+
+These KPIs dynamically respond to filters, enabling quick performance evaluation across different dimensions.
+
+## Core Analytical Visualizations
+### Sales vs Profit Analysis (Scatter Plot)
+
+A scatter plot visualizes the relationship between Sales and Profit, segmented by Region and Order Volume.
+
+- X-Axis: Sales
+- Y-Axis: Profit
+- Color: Region
+- Size: Volume
+**Key Insights:**
+- Identifies high-revenue but low-profit regions
+- Highlights high-performing regions with strong profitability
+- Detects inefficiencies in sales-volume conversion
+- Shipping Mode Performance (Tree Map)
+
+## A treemap illustrates the contribution of each shipping mode to total sales:
+
+- Standard Class: 85,490
+- Second Class: 27,860
+- First Class: 21,319
+- Same Day: 7,114
+
+## Regional Sales Trends (Line Chart)
+
+A line chart compares regional performance over time (United States vs Canada).
+
+**Key Insights:**
+The Geographic Sales Distribution map provides a clear view of how sales are spread across different cities, enabling stakeholders to track regional sales growth, identify demand patterns and seasonal fluctuations, and compare performance across locations to support data-driven market expansion and resource allocation decisions.
+
+## A filled map displays city-level sales distribution across the United States.
+
+**Key Insights:**
+The filled map of city-level sales distribution highlights key demand patterns across the United States by identifying high-performing cities and major sales hotspots, while also revealing underserved or low-performing regions that may require strategic attention. These insights support more informed decision-making in logistics planning, resource allocation, and market expansion by showing where demand is strongest and where growth opportunities exist.
+
+## Product Performance vs Average (Bar Chart)
+This bar chart compares product-level sales against the average benchmark of 9,452.
+Products performing above average are highlighted in blue, while those below average are shown in gray.
+This makes it easy to quickly identify strong-performing and underperforming products.
+It supports better decision-making for product improvement and sales optimization.
+
+**Key Insights:**
+
+The visualization identifies top-performing products by comparing sales against the average benchmark. It highlights underperforming products that need attention for improvement. These insights support better inventory planning and marketing optimization.
+
+## State-Level Sales Analysis (Dynamic Bar Chart)
+
+A horizontal bar chart enables interactive analysis by allowing users to filter and explore the data based on key dimensions. It allows selection of the Top N states and filtering by product division (Chocolate, Other, Sugar), making it easier to identify top-performing states and compare sales performance across different product categories.
+
+**Key Insights:**
+
+The visualization identifies top-performing states based on total sales performance.
+It enables comparison of sales across product divisions within each state.
+This helps support targeted regional strategies and better resource allocation.
+
+## Profit by Division (Bubble Chart)
+
+A bubble chart visualizes profit contribution by product division:
+
+- Chocolate: 88,825
+- Other: 4,333
+- Sugar: 285
+
+**Key Insights:**
+The analysis shows that Chocolate dominates overall profitability, contributing the largest share of returns. In contrast, the Other and Sugar divisions contribute minimally, indicating weaker performance. This highlights potential opportunities for diversification strategies or cost optimization to improve overall business balance and efficiency.
+
+## Target vs Actual Performance (Bullet Chart)
+
+The bullet chart compares actual sales against set targets, showing that Chocolate and Other significantly exceeded their goals, while Sugar fell below its target, highlighting strong performance in some divisions and a need for improvement in others.
+
+- Chocolate: Target = 27,000 | Actual = 131,693
+- Other: Target = 3,000 | Actual = 9,663
+- Sugar: Target = 1,500 | Actual = 427
+  
+**Key Insights:**
+The analysis shows that Chocolate significantly exceeds expectations, indicating very strong performance. The “Other” category also performs above target, reflecting positive results, while Sugar underperforms and requires strategic attention to improve its performance.
+
+
+## Dataset: [US Candy Distributor](https://mavenanalytics.io/data-playground/us-candy-distributor)
+
+
+</details>
 
 ![image alt](https://github.com/Okello-Solomon/tableau_dashboards/blob/ee15fd6ae6ebed0b43394d32e287d654ef9ff588/Candy%20Performance%20Dashboard%201.png)
 
